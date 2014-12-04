@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F3F" format="1">
+  <advance width="1013"/>
+  <outline>
+    <component base="Iota" xOffset="363"/>
+    <component base="uni1FDF" yOffset="-99"/>
+  </outline>
+</glyph>

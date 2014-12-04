@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.orig" format="1">
+  <advance width="606"/>
+  <outline>
+    <contour>
+      <point x="572" y="1374" type="line"/>
+      <point x="217" y="1026" type="line"/>
+      <point x="201" y="1030"/>
+      <point x="186" y="1044"/>
+      <point x="172" y="1061" type="qcurve"/>
+      <point x="444" y="1459" type="line"/>
+      <point x="454" y="1456"/>
+      <point x="485" y="1447"/>
+      <point x="519" y="1436"/>
+      <point x="549" y="1424"/>
+      <point x="557" y="1419" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

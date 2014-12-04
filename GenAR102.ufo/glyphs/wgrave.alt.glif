@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wgrave.alt" format="1">
+  <advance width="1446"/>
+  <unicode hex="1E81"/>
+  <outline>
+    <component base="w"/>
+    <component base="gravecomb.alt" xOffset="1183"/>
+  </outline>
+</glyph>

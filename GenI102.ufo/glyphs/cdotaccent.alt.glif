@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cdotaccent.alt" format="1">
+  <advance width="795"/>
+  <outline>
+    <component base="c"/>
+    <component base="uni0307.alt" xOffset="886"/>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0341" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-137" y="1356" type="qcurve"/>
+      <point x="-2" y="1594" type="line"/>
+      <point x="19" y="1594"/>
+      <point x="73" y="1585"/>
+      <point x="93" y="1578" type="qcurve"/>
+      <point x="115" y="1538" type="line"/>
+      <point x="-91" y="1338" type="line"/>
+      <point x="-105" y="1341"/>
+      <point x="-128" y="1348"/>
+    </contour>
+  </outline>
+</glyph>

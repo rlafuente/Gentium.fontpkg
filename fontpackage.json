@@ -1,0 +1,45 @@
+{
+    "family_name": "Gentium", 
+    "designer": "J. Victor Gaultney", 
+    "copyright": "Copyright (c) SIL International 2003-2005. All rights reserved.", 
+    "license": "Open Font License 1.1", 
+    "license url": "http://scripts.sil.org/OFL", 
+    "trademark": "Gentium is a trademark of SIL International.", 
+    "designer_url": "http://www.sil.org/~gaultney", 
+    "vendor_url": "http://www.sil.org/", 
+    "manufacturer": null
+    "resources": [
+        {
+            "style": "Italic", 
+            "italic": true, 
+            "weight": "Book", 
+            "version": "1.02; 2005; OFL release", 
+            "postscript_name": "GentiumAlt-Italic", 
+            "full_name": "GentiumAlt Italic"
+        }, 
+        {
+            "style": "Regular", 
+            "italic": false, 
+            "weight": "Book", 
+            "version": "1.02; 2005; OFL release", 
+            "postscript_name": "GentiumAlt", 
+            "full_name": "GentiumAlt"
+        }, 
+        {
+            "style": "Italic", 
+            "italic": true, 
+            "weight": "Book", 
+            "version": "1.02; 2005; OFL release", 
+            "postscript_name": "Gentium-Italic", 
+            "full_name": "Gentium Italic"
+        }, 
+        {
+            "style": "Regular", 
+            "italic": false, 
+            "weight": "Book", 
+            "version": "1.02; 2005; OFL release", 
+            "postscript_name": "Gentium", 
+            "full_name": "Gentium"
+        }
+    ], 
+}

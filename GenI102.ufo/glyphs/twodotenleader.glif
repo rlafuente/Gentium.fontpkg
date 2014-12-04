@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotenleader" format="1">
+  <advance width="820"/>
+  <unicode hex="2025"/>
+  <outline>
+    <contour>
+      <point x="693" y="152" type="qcurve" smooth="yes"/>
+      <point x="693" y="121"/>
+      <point x="672" y="56"/>
+      <point x="633" y="3"/>
+      <point x="579" y="-31"/>
+      <point x="545" y="-31" type="qcurve" smooth="yes"/>
+      <point x="505" y="-31"/>
+      <point x="461" y="23"/>
+      <point x="461" y="68" type="qcurve" smooth="yes"/>
+      <point x="461" y="97"/>
+      <point x="484" y="160"/>
+      <point x="525" y="212"/>
+      <point x="579" y="246"/>
+      <point x="611" y="246" type="qcurve" smooth="yes"/>
+      <point x="648" y="246"/>
+      <point x="693" y="194"/>
+    </contour>
+    <contour>
+      <point x="283" y="152" type="qcurve" smooth="yes"/>
+      <point x="283" y="121"/>
+      <point x="262" y="56"/>
+      <point x="223" y="3"/>
+      <point x="169" y="-31"/>
+      <point x="135" y="-31" type="qcurve" smooth="yes"/>
+      <point x="95" y="-31"/>
+      <point x="51" y="23"/>
+      <point x="51" y="68" type="qcurve" smooth="yes"/>
+      <point x="51" y="97"/>
+      <point x="74" y="160"/>
+      <point x="115" y="212"/>
+      <point x="169" y="246"/>
+      <point x="201" y="246" type="qcurve" smooth="yes"/>
+      <point x="238" y="246"/>
+      <point x="283" y="194"/>
+    </contour>
+  </outline>
+</glyph>

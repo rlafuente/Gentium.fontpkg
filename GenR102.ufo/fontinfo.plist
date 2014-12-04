@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>familyName</key>
+    <string>Gentium</string>
+    <key>styleName</key>
+    <string>Book</string>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>copyright</key>
+    <string>Copyright (c) SIL International 2003-2005. All rights reserved.</string>
+    <key>trademark</key>
+    <string>Gentium is a trademark of SIL International.</string>
+    <key>unitsPerEm</key>
+    <integer>2048</integer>
+    <key>ascender</key>
+    <integer>1638</integer>
+    <key>descender</key>
+    <integer>-410</integer>
+    <key>italicAngle</key>
+    <real>0</real>
+    <key>note</key>
+    <string></string>
+    <key>openTypeHeadCreated</key>
+    <string>2002/09/17 00:00:00</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1759</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-565</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>45</integer>
+    <key>openTypeNameDesigner</key>
+    <string>J. Victor Gaultney</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://www.sil.org/~gaultney</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://www.sil.org/</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is Copyright (c) 2003-2005, SIL International (http://scripts.sil.org/). All Rights Reserved.&#13;
+&#13;
+"Gentium" is a Reserved Font Name for this Font Software.&#13;
+"SIL" is a Reserved Font Name for this Font Software.&#13;
+&#13;
+This Font Software is licensed under the SIL Open Font License, Version 1.0. No modification of the license is permitted, only verbatim copy is allowed. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL&#13;
+&#13;
+&#13;
+-----------------------------------------------------------&#13;
+SIL OPEN FONT LICENSE Version 1.0 - 22 November 2005&#13;
+-----------------------------------------------------------&#13;
+&#13;
+PREAMBLE&#13;
+The goals of the Open Font License (OFL) are to stimulate worldwide development of cooperative font projects, to support the font creation efforts of academic and linguistic communities, and to provide an open framework in which fonts may be shared and improved in partnership with others.&#13;
+&#13;
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and sold with any software provided that the font names of derivative works are changed. The fonts and derivatives, however, cannot be released under any other type of license.&#13;
+&#13;
+DEFINITIONS&#13;
+"Font Software" refers to any and all of the following:&#13;
+	- font files&#13;
+	- data files&#13;
+	- source code&#13;
+	- build scripts&#13;
+	- documentation&#13;
+&#13;
+"Reserved Font Name" refers to the Font Software name as seen by users and any other names as specified after the copyright statement.&#13;
+&#13;
+"Standard Version" refers to the collection of Font Software components as distributed by the Copyright Holder.&#13;
+&#13;
+"Modified Version" refers to any derivative font software made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Standard Version, by changing formats or by porting the Font Software to a new environment.&#13;
+&#13;
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.&#13;
+&#13;
+PERMISSION &amp; CONDITIONS&#13;
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the FontSoftware, subject to the following conditions:&#13;
+&#13;
+1) Neither the Font Software nor any of its individual components, in Standard or Modified Versions, may be sold by itself.&#13;
+&#13;
+2) Standard or Modified Versions of the Font Software may be bundled, redistributed and sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.&#13;
+&#13;
+3) No Modified Version of the Font Software may use the Reserved Font Name(s), in part or in whole, unless explicit written permission is granted by the Copyright Holder. This restriction applies to all references stored in the Font Software, such as the font menu name and other font description fields, which are used to differentiate the font from others.&#13;
+&#13;
+4) The name(s) of the Copyright Holder or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder and the Author(s) or with their explicit written permission.&#13;
+&#13;
+5) The Font Software, modified or unmodified, in part or in whole, must be distributed using this license, and may not be distributed under any other license.&#13;
+&#13;
+TERMINATION&#13;
+This license becomes null and void if any of the above conditions are not met.&#13;
+&#13;
+DISCLAIMER&#13;
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 1.02; 2005; OFL release</string>
+    <key>openTypeNameUniqueID</key>
+    <string>SIL: Gentium: 2005</string>
+    <key>openTypeNamePreferredFamilyName</key>
+    <string>Gentium</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Regular</string>
+    <key>openTypeNameCompatibleFullName</key>
+    <string>Gentium</string>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>2</integer>
+      <integer>0</integer>
+      <integer>5</integer>
+      <integer>3</integer>
+      <integer>6</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>2</integer>
+      <integer>0</integer>
+      <integer>4</integer>
+    </array>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>SIL </string>
+    <key>openTypeOS2FamilyClass</key>
+    <array>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1550</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-479</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>90</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1759</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>565</integer>
+    <key>openTypeOS2SubscriptXSize</key>
+    <integer>856</integer>
+    <key>openTypeOS2SubscriptYSize</key>
+    <integer>856</integer>
+    <key>openTypeOS2SubscriptXOffset</key>
+    <integer>0</integer>
+    <key>openTypeOS2SubscriptYOffset</key>
+    <integer>1200</integer>
+    <key>openTypeOS2SuperscriptXSize</key>
+    <integer>856</integer>
+    <key>openTypeOS2SuperscriptYSize</key>
+    <integer>856</integer>
+    <key>openTypeOS2SuperscriptXOffset</key>
+    <integer>0</integer>
+    <key>openTypeOS2SuperscriptYOffset</key>
+    <integer>1200</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>102</integer>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>512</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>2</integer>
+      <integer>3</integer>
+      <integer>4</integer>
+      <integer>5</integer>
+      <integer>6</integer>
+      <integer>7</integer>
+      <integer>29</integer>
+      <integer>30</integer>
+      <integer>31</integer>
+      <integer>32</integer>
+      <integer>33</integer>
+    </array>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>3</integer>
+      <integer>4</integer>
+      <integer>29</integer>
+    </array>
+    <key>postscriptFontName</key>
+    <string>Gentium</string>
+    <key>postscriptFullName</key>
+    <string>Gentium</string>
+    <key>postscriptWeightName</key>
+    <string>Book</string>
+    <key>postscriptUnderlineThickness</key>
+    <integer>14</integer>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-41</integer>
+  </dict>
+</plist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tau" format="1">
+  <advance width="1128"/>
+  <unicode hex="03A4"/>
+  <outline>
+    <contour>
+      <point x="305" y="0" type="line"/>
+      <point x="305" y="43" type="line"/>
+      <point x="397" y="62"/>
+      <point x="471" y="101"/>
+      <point x="471" y="115" type="qcurve" smooth="yes"/>
+      <point x="471" y="1169" type="line"/>
+      <point x="172" y="1169" type="line" smooth="yes"/>
+      <point x="157" y="1169"/>
+      <point x="132" y="1158"/>
+      <point x="107" y="1122"/>
+      <point x="75" y="1053"/>
+      <point x="53" y="995" type="qcurve"/>
+      <point x="10" y="1014" type="line"/>
+      <point x="15" y="1073"/>
+      <point x="32" y="1207"/>
+      <point x="43" y="1260" type="qcurve"/>
+      <point x="1053" y="1260" type="line"/>
+      <point x="1083" y="1235" type="line"/>
+      <point x="1081" y="1184"/>
+      <point x="1065" y="1062"/>
+      <point x="1053" y="999" type="qcurve"/>
+      <point x="1008" y="999" type="line"/>
+      <point x="999" y="1041"/>
+      <point x="984" y="1105"/>
+      <point x="965" y="1148"/>
+      <point x="937" y="1169"/>
+      <point x="915" y="1169" type="qcurve" smooth="yes"/>
+      <point x="631" y="1169" type="line"/>
+      <point x="631" y="115" type="line" smooth="yes"/>
+      <point x="631" y="102"/>
+      <point x="703" y="62"/>
+      <point x="795" y="43" type="qcurve"/>
+      <point x="795" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
